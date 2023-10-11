@@ -1,5 +1,5 @@
 
-    newtp.f89 and newtm.f90 compute the populations, chemical
+    newtp.f90 and newtm.f90 compute the populations, chemical
     potentials and current-voltage curves of models of electron
     transfer proteins at nonequlibrium conditions using the
     characterisitic energy parameters of Marcus' theory
