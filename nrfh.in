@@ -1,0 +1,8 @@
+ 4                                            ! Number of sites
+ 13.2           -0.60         1.00            ! g, DeltaG, Lambda
+ 0.46            0.00         1.00            ! g, DeltaG, Lambda
+ 4.32            0.07         1.00            ! g, DeltaG, Lambda
+ 10.0            10.0                         ! g in,out
+ 0.0             0.0                          ! DeltaG in,out
+ 1.0             1.0                          ! Lambda in,out
+H1 to H4 (H1 is at the membrane)

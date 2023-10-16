@@ -1,0 +1,33 @@
+
+Programs
+newtp.f90 - compute the charge transfer characteristics for single level contacts
+newtm.f90 - compute the charge transfer characteristics for metallic leads
+
+Figure 3 input and data
+chain1.in    - single-site system, input for figure 3 data
+chain3.in    - three-site system, input for figure 3 data
+figure3.dat  - figure 3 data
+figure3a.dat - figure 3 data
+figure3b.dat - figure 3 data
+figure3c.dat - figure 3 data
+
+Cytochrome photoreaction center input and data
+1prc.in       - sample input
+1prc_m_iv.dat - IV curve, metallic leads
+1prc_m_p.dat  - site populations, metallic leads
+1prc_m_u.dat  - site voltages, metallic leads
+1prc_p_iv.dat - IV curve, single level contacts
+1prc_p_p.dat  - site populations, single level contacts
+1prc_p_u.dat  - site voltages, single level contacts
+
+Nitrite reductase NrfH subunit input and data
+nrfh.in        - sample input
+nrfh_m_iv.dat  - IV curve, metallic leads
+nrfh_m_p.dat   - site populations, part 1, metallic leads
+nrfh_m_p_a.dat - site populations, part 2, metallic leads
+nrfh_m_u.dat   - site voltages, metallic leads
+nrfh_p_iv.dat  - IV curve, single level contacts
+nrfh_p_p.dat   - site populations, part 1, single level contacts
+nrfh_p_p_b.dat - site populations, part 2, single level contacts
+nrfh_p_u.dat   - site voltages, single level contacts
+
